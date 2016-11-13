@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'authors/new'
+
   mount Ckeditor::Engine => '/ckeditor'
   root 'posts#landing_page'
   get '/index', to: 'posts#index'
