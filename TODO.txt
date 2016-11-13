@@ -1,0 +1,4 @@
+1. Need authors resource (controller, login, signup, associated views and sendgrid)
+2. imgur API for image hosting?
+3. header and footer partials
+4. sidebar partial
